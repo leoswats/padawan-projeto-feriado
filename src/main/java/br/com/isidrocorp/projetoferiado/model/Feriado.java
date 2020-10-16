@@ -12,7 +12,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="itmn330_feriado")
+@Table(name="heroku_dd962cae9daba7d.itmn330_feriado")
 public class Feriado {
 	
 	@Id
