@@ -17,7 +17,7 @@ import javax.persistence.Table;
  */
 
 @Entity // aqui eu defino que Agencia será uma entidade armazenavel
-@Table(name="itmn330_agencia") // aqui eu especifico o nome da tabela correspondente
+@Table(name="heroku_dd962cae9daba7d.itmn330_agencia") // aqui eu especifico o nome da tabela correspondente
 public class Agencia {
 	
 	@Id    							// aqui eu indico que é chave primária
